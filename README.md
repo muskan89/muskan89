@@ -1,4 +1,4 @@
-### Hi there 👋,I am Muskan Gupta
+### Hii there 👋,I am Muskan Gupta
 I am Sophomore at IIT Ropar
 
 <!--
