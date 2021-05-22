@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=muskan89)
+<img src="https://github-readme-stats.vercel.app/api/?username=muskan89&show_icons=true&theme=gotham" alt="github stats"/>
+
+<a href="https://github.com/CadencePrestissimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan89&layout=compact&theme=gotham" /></a>
 
