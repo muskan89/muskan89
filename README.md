@@ -1,5 +1,5 @@
 ### Hii there 👋,I am Muskan Gupta
-I am Sophomore at IIT Ropar
+I am pre-final year Undergraduate at IIT Ropar
 
 
 <!--
