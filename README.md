@@ -1,5 +1,5 @@
 ### Hii there 👋,I am Muskan Gupta
-I am final year Undergraduate student in Computer Science and Engineering at IIT Ropar, India. I am interested in the field of quantitative logic and algorithms.I love to build softwares. I am currently learning various technological tools for development.
+I am final year Undergraduate in Computer Science and Engineering at IIT Ropar, India. I am interested in the field of quantitative logic and algorithms.I love to build softwares. I am currently learning various technological tools for development.
 
 
 <!--
